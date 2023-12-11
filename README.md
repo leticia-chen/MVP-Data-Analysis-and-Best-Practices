@@ -8,4 +8,4 @@ Available in English and Portuguese.
 ## Dataset
 <a href="https://github.com/leticia-chen/Datasets/blob/main/Online_Shopping_Dataset.csv">Online Shopping Dataset
 
-<img src="https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Sheet%201-4.png" height = "300"> 
+<img src="https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Sheet%201-4.png"> 
