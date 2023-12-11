@@ -5,4 +5,4 @@ Available in English and Portuguese.
 
 English: https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Online_Shopping_english.ipynb
 
-Portugues:
+Portugues: https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Online_Shopping_portugues.ipynb
