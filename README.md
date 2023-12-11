@@ -8,4 +8,4 @@ Available in English and Portuguese.
 ## Dataset
 <a href="https://github.com/leticia-chen/Datasets/blob/main/Online_Shopping_Dataset.csv">Online Shopping Dataset
 
-<img src="Images/First_training_epoch3_prediction.png" height = "300"> <img src="Images/train_test_loss_bleu_final_25epochs.png" height = "300">
+<img src="https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Sheet%201-4.png" height = "300"> 
