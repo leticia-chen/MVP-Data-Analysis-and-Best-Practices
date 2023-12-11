@@ -3,6 +3,6 @@ This project aims to harness data science to analyze online shopping trends, ens
 ## Multilingual Analysis Project
 Available in English and Portuguese.
 
-English:
+English: https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Online_Shopping_english.ipynb
 
 Portugues:
