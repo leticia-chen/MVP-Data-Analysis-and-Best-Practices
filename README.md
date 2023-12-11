@@ -5,5 +5,7 @@ This project aims to harness data science to analyze online shopping trends, ens
 Available in English and Portuguese.
 
 <a href="https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Online_Shopping_english.ipynb">English</a> or <a href="https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Online_Shopping_portugues.ipynb">Portutues</a>
+## Dataset
+<a href="https://github.com/leticia-chen/Datasets/blob/main/Online_Shopping_Dataset.csv">Online Shopping Dataset
 
 
