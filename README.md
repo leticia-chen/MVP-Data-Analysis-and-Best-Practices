@@ -4,7 +4,7 @@ This project aims to harness data science to analyze online shopping trends, ens
 ## Multilingual Analysis Project
 Available in English and Portuguese.
 
-<a href="https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Online_Shopping_english.ipynb">English</a> or <a href="https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Online_Shopping_portugues.ipynb">Portutues</a>
+<a href="https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Online_Shopping_english.ipynb">English</a> or <a href="https://github.com/leticia-chen/MVP-Data-Analysis-and-Best-Practices/blob/main/Online_Shopping_portugues.ipynb">Portugues</a>
 ## Dataset
 <a href="https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset">Kaggle: Online Shopping Dataset</a>
 
